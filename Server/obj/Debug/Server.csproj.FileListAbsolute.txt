@@ -1,0 +1,11 @@
+D:\_windowFiles\documents\GitHub\Tutorial_1\Tutorial_1\Server\bin\Debug\Server.exe.config
+D:\_windowFiles\documents\GitHub\Tutorial_1\Tutorial_1\Server\bin\Debug\Server.exe
+D:\_windowFiles\documents\GitHub\Tutorial_1\Tutorial_1\Server\bin\Debug\Server.pdb
+D:\_windowFiles\documents\GitHub\Tutorial_1\Tutorial_1\Server\bin\Debug\DatabaseLib.dll
+D:\_windowFiles\documents\GitHub\Tutorial_1\Tutorial_1\Server\bin\Debug\DatabaseLib.pdb
+D:\_windowFiles\documents\GitHub\Tutorial_1\Tutorial_1\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\_windowFiles\documents\GitHub\Tutorial_1\Tutorial_1\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+D:\_windowFiles\documents\GitHub\Tutorial_1\Tutorial_1\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\_windowFiles\documents\GitHub\Tutorial_1\Tutorial_1\Server\obj\Debug\Server.csproj.CopyComplete
+D:\_windowFiles\documents\GitHub\Tutorial_1\Tutorial_1\Server\obj\Debug\Server.exe
+D:\_windowFiles\documents\GitHub\Tutorial_1\Tutorial_1\Server\obj\Debug\Server.pdb

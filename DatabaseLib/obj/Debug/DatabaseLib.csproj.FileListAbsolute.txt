@@ -1,0 +1,6 @@
+D:\_windowFiles\documents\GitHub\Tutorial_1\Tutorial_1\DatabaseLib\bin\Debug\DatabaseLib.dll
+D:\_windowFiles\documents\GitHub\Tutorial_1\Tutorial_1\DatabaseLib\bin\Debug\DatabaseLib.pdb
+D:\_windowFiles\documents\GitHub\Tutorial_1\Tutorial_1\DatabaseLib\obj\Debug\DatabaseLib.csproj.AssemblyReference.cache
+D:\_windowFiles\documents\GitHub\Tutorial_1\Tutorial_1\DatabaseLib\obj\Debug\DatabaseLib.csproj.CoreCompileInputs.cache
+D:\_windowFiles\documents\GitHub\Tutorial_1\Tutorial_1\DatabaseLib\obj\Debug\DatabaseLib.dll
+D:\_windowFiles\documents\GitHub\Tutorial_1\Tutorial_1\DatabaseLib\obj\Debug\DatabaseLib.pdb
