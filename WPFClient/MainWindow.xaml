@@ -7,6 +7,15 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <TextBox Name="FirstNameBox" HorizontalAlignment="Left" Height="20" Margin="410,95,0,0" TextWrapping="NoWrap" Text="FirstName" VerticalAlignment="Top" Width="252"/>
+        <TextBox Name="LastNameBox" HorizontalAlignment="Left" Height="20" Margin="410,125,0,0" TextWrapping="NoWrap" Text="LastName" VerticalAlignment="Top" Width="252"/>
+        <TextBox Name="AcctNoBox" HorizontalAlignment="Left" Height="20" Margin="410,155,0,0" TextWrapping="NoWrap" Text="AcctNo" VerticalAlignment="Top" Width="252"/>
+        <TextBox Name="PinBox" HorizontalAlignment="Left" Height="20" Margin="410,185,0,0" TextWrapping="NoWrap" Text="Pin" VerticalAlignment="Top" Width="252"/>
+        <TextBox Name="BalanceBox" HorizontalAlignment="Left" Height="20" Margin="410,215,0,0" TextWrapping="NoWrap" Text="Balance" VerticalAlignment="Top" Width="252"/>
+        <TextBox Name="IndexInput" HorizontalAlignment="Left" Height="20" Margin="275,125,0,0" TextWrapping="NoWrap" VerticalAlignment="Top" Width="75"/>
+        <TextBlock Name="TotalNum" HorizontalAlignment="Left" Margin="410,250,0,0" TextWrapping="Wrap" Text="Total Items:" VerticalAlignment="Top"/>
+        <Button Name="GoButton" Content="Go!" HorizontalAlignment="Left" Margin="274,155,0,0" VerticalAlignment="Top" Width="75" Click="GoButton_Click"/>
+        <TextBlock HorizontalAlignment="Left" Margin="205,125,0,0" TextWrapping="Wrap" Text="Enter Index:" VerticalAlignment="Top" Width="65"/>
+
     </Grid>
 </Window>

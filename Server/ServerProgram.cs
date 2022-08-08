@@ -8,17 +8,31 @@ using System.ServiceModel;
 namespace Server {
     internal class ServerProgram {
         static void Main(string[] args) {
-            Console.WriteLine("Welcome to my server");
+            Console.WriteLine("Server starting...");
+
+            //This is the actual host service system
             ServiceHost host;
+            //This represents a tcp/ip binding in the Windows network stack
             NetTcpBinding tcp = new NetTcpBinding();
 
-            host = new ServiceHost(typeof(DataServer));
-            host.AddServiceEndpoint(typeof(DataServerInterface), tcp, "net.tcp://0.0.0.0:8100/DataService");
+            try {
+                //Bind server to the implementation of DataServer
+                host = new ServiceHost(typeof(DataServer));
 
-            host.Open();
-            Console.WriteLine("System Online");
-            Console.ReadLine();
-            host.Close();
+                /*Present the publicly accessible interface to the client. 0.0.0.0 tells .net to
+                accept on any interface. :8100 means this will use port 8100. DataService is a name for the
+                actual service, this can be any string.*/
+                host.AddServiceEndpoint(typeof(DataServerInterface), tcp, "net.tcp://0.0.0.0:8100/DataService");
+
+                host.Open();
+                Console.WriteLine("\nServer Online");
+                Console.ReadLine();
+                host.Close();
+            }
+            catch (Exception ex) {
+                Console.WriteLine("\nServer Failed.");
+                Console.ReadLine();
+            }
         }
     }
 }

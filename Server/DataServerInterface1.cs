@@ -7,7 +7,7 @@ using System.ServiceModel;
 
 namespace Server {
     [ServiceContract]
-    internal interface DataServerInterface {
+    public interface DataServerInterface {
         [OperationContract]
         int GetNumEntries();
         [OperationContract]
