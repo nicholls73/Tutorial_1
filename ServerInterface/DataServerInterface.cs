@@ -11,6 +11,7 @@ namespace Server {
         [OperationContract]
         int GetNumEntries();
         [OperationContract]
+        [FaultContract(typeof(ArgumentOutOfRangeException))]
         void GetValuesForEntry(int index, out uint acctNo, out uint pin, out int bal, out string firstName, out string lastName);
     }
 }

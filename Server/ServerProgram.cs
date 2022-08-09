@@ -31,6 +31,7 @@ namespace Server {
             }
             catch (Exception ex) {
                 Console.WriteLine("\nServer Failed.");
+                Console.WriteLine("ERROR: " + ex.Message);
                 Console.ReadLine();
             }
         }

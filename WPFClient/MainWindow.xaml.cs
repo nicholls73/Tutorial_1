@@ -62,7 +62,7 @@ namespace WPFClient {
                     PinBox.Text = pin.ToString("D4");
                 }
             }
-            catch (System.FormatException ex) {
+            catch (Exception ex) when (ex is FormatException || ex is FaultException) {
                 FirstNameBox.Text = "ERROR";
                 LastNameBox.Text = "ERROR";
                 BalanceBox.Text = "ERROR";

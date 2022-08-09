@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFClient", "WPFClient\WPFClient.csproj", "{343835F2-4802-4ECF-9A3F-7BC8170A1E55}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerInterface", "ServerInterface\ServerInterface.csproj", "{A190C084-DD5A-4749-9DD6-39D7EF18318B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{343835F2-4802-4ECF-9A3F-7BC8170A1E55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{343835F2-4802-4ECF-9A3F-7BC8170A1E55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{343835F2-4802-4ECF-9A3F-7BC8170A1E55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A190C084-DD5A-4749-9DD6-39D7EF18318B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A190C084-DD5A-4749-9DD6-39D7EF18318B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A190C084-DD5A-4749-9DD6-39D7EF18318B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A190C084-DD5A-4749-9DD6-39D7EF18318B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

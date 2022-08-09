@@ -96,6 +96,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\ServerInterface\ServerInterface.csproj">
+      <Project>{a190c084-dd5a-4749-9dd6-39d7ef18318b}</Project>
+      <Name>ServerInterface</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Server\Server.csproj">
       <Project>{7c3a43e6-e1f5-4513-a086-a81989a9c011}</Project>
       <Name>Server</Name>

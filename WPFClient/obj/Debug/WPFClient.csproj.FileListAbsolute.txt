@@ -20,3 +20,5 @@ D:\_windowFiles\documents\GitHub\Tutorial_1\Tutorial_1\WPFClient\obj\Debug\WPFCl
 D:\_windowFiles\documents\GitHub\Tutorial_1\Tutorial_1\WPFClient\obj\Debug\WPFClient.csproj.CopyComplete
 D:\_windowFiles\documents\GitHub\Tutorial_1\Tutorial_1\WPFClient\obj\Debug\WPFClient.exe
 D:\_windowFiles\documents\GitHub\Tutorial_1\Tutorial_1\WPFClient\obj\Debug\WPFClient.pdb
+D:\_windowFiles\documents\GitHub\Tutorial_1\Tutorial_1\WPFClient\bin\Debug\ServerInterface.dll
+D:\_windowFiles\documents\GitHub\Tutorial_1\Tutorial_1\WPFClient\bin\Debug\ServerInterface.pdb
