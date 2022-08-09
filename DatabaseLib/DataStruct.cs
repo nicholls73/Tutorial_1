@@ -20,7 +20,7 @@ namespace DatabaseLib {
             balance = 0;
             firstName = "";
             lastName = "";
-            profilePic = new Bitmap("");
+            profilePic = new Bitmap("profile_pics\\Empty_Profile_Pic.png");
         }
 
         public DataStruct(uint acctNo, uint pin, int balance, string firstName, string lastName) {
