@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Drawing;
 
 namespace DatabaseLib {
     internal class DataStruct {
@@ -11,6 +12,7 @@ namespace DatabaseLib {
         public int balance;
         public string firstName;
         public string lastName;
+        public Bitmap profilePic;
 
         public DataStruct() {
             acctNo = 0;
@@ -18,6 +20,7 @@ namespace DatabaseLib {
             balance = 0;
             firstName = "";
             lastName = "";
+            profilePic = new Bitmap("");
         }
 
         public DataStruct(uint acctNo, uint pin, int balance, string firstName, string lastName) {

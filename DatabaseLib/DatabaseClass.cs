@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Drawing;
 
 namespace DatabaseLib {
     public class DatabaseClass {
@@ -14,6 +15,7 @@ namespace DatabaseLib {
             uint pin = 0, acctNo;
             int balance;
             string firstName, lastName;
+            Bitmap profilePic;
             DataStruct currDataStruct;
             DatabaseEntryGenerator entryGenerator = new DatabaseEntryGenerator();
 
@@ -43,6 +45,10 @@ namespace DatabaseLib {
 
         public int GetBalanceByIndex(int index) {
             return dataStruct.ElementAt(index).balance;
+        }
+
+        public Bitmap GetProfilePicByIndex(int index) {
+
         }
 
         public int GetNumRecords() {
