@@ -16,7 +16,7 @@
         <TextBlock Name="TotalNum" HorizontalAlignment="Left" Margin="410,250,0,0" TextWrapping="Wrap" Text="Total Items:" VerticalAlignment="Top"/>
         <Button Name="GoButton" Content="Go!" HorizontalAlignment="Left" Margin="280,80,0,0" VerticalAlignment="Center" Width="75" Click="GoButton_Click"/>
         <TextBlock HorizontalAlignment="Left" Margin="210,215,0,0" TextWrapping="Wrap" Text="Enter Index:" VerticalAlignment="Top" Width="65"/>
-        <Image Height="100" Width="100" Margin="230,95,470,240" RenderTransformOrigin="1,0.995"/>
+        <Image Name="ProfilePic" Height="100" Width="100" Margin="230,95,470,240" RenderTransformOrigin="1,0.995"/>
 
     </Grid>
 </Window>
