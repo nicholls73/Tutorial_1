@@ -11,3 +11,16 @@ D:\_windowFiles\documents\GitHub\Tutorial_1\Tutorial_1\Server\obj\Debug\Server.e
 D:\_windowFiles\documents\GitHub\Tutorial_1\Tutorial_1\Server\obj\Debug\Server.pdb
 D:\_windowFiles\documents\GitHub\Tutorial_1\Tutorial_1\Server\bin\Debug\ServerInterface.dll
 D:\_windowFiles\documents\GitHub\Tutorial_1\Tutorial_1\Server\bin\Debug\ServerInterface.pdb
+C:\Users\jamni\OneDrive\Documents\GitHub\Tutorial_1\Server\bin\Debug\Server.exe.config
+C:\Users\jamni\OneDrive\Documents\GitHub\Tutorial_1\Server\bin\Debug\Server.exe
+C:\Users\jamni\OneDrive\Documents\GitHub\Tutorial_1\Server\bin\Debug\Server.pdb
+C:\Users\jamni\OneDrive\Documents\GitHub\Tutorial_1\Server\bin\Debug\DatabaseLib.dll
+C:\Users\jamni\OneDrive\Documents\GitHub\Tutorial_1\Server\bin\Debug\ServerInterface.dll
+C:\Users\jamni\OneDrive\Documents\GitHub\Tutorial_1\Server\bin\Debug\DatabaseLib.pdb
+C:\Users\jamni\OneDrive\Documents\GitHub\Tutorial_1\Server\bin\Debug\ServerInterface.pdb
+C:\Users\jamni\OneDrive\Documents\GitHub\Tutorial_1\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\jamni\OneDrive\Documents\GitHub\Tutorial_1\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\jamni\OneDrive\Documents\GitHub\Tutorial_1\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\jamni\OneDrive\Documents\GitHub\Tutorial_1\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\jamni\OneDrive\Documents\GitHub\Tutorial_1\Server\obj\Debug\Server.exe
+C:\Users\jamni\OneDrive\Documents\GitHub\Tutorial_1\Server\obj\Debug\Server.pdb
